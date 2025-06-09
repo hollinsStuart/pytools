@@ -3,4 +3,4 @@ name = "pytools"
 version = "0.1.0"
 description = "A collection of reusable Python utilities"
 authors = [{ name = "Hollins Yu" }]
-dependencies = []
+dependencies = ["locale", "datetime"]
