@@ -1,5 +1,6 @@
-from datetime import datetime
 import locale
+from datetime import datetime
+
 
 def get_date() -> str:
     user_locale = locale.getlocale()
